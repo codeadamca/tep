@@ -2,7 +2,9 @@
 
 A small repo to store my Teaching Excellence Program requirements. 
 
-## Related Links:
+***
+
+## Repo Resources
 
 * [TEP Documents](https://pages.codeadam.ca/tep-documents/)
 * [TEP Observation 1](https://pages.codeadam.ca/tep-observation-1)
